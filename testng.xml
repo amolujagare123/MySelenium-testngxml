@@ -1,0 +1,12 @@
+<suite name="My suite">
+
+
+
+    <test name="test set 2">
+        <classes>
+            <class name="TestNG1"/>
+            <class name="TestNG2"/>
+            <class name="TestNG3"/>
+        </classes>
+    </test>
+</suite>
